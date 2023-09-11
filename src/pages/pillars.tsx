@@ -34,6 +34,15 @@ export default function Home() {
             width={900}
           ></Image>
         </figure>
+        <figure>
+          <figcaption>Unsplash</figcaption>
+          <Image
+            src="https://images.unsplash.com/photo-1520283451192-c3b05d7db25b"
+            alt="Pillars"
+            height={300}
+            width={900}
+          ></Image>
+        </figure>
       </main>
     </>
   );
